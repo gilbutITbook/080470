@@ -1,4 +1,4 @@
-## Node.js + Nest.js 교과서의 소스코드입니다.
+## Node.js + NestJS 교과서의 소스코드입니다.
 
 master 브랜치의 소스코드는 개정4판 소스코드입니다. 개정3판, 개정2판, 초판 소스코드는 [nodejs-book](https://github.com/zerocho/nodejs-book)에 있습니다.
 
